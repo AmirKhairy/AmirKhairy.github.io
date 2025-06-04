@@ -33241,7 +33241,7 @@ A.Yn.prototype={}
 A.mn.prototype={
 M(a){var s=A.ce(a,null,t.w).w.a.a
 if(s>=1100)return this.e
-else if(s>=607)return this.d
+else if(s>=800)return this.d
 else return this.c}}
 A.i7.prototype={
 kE(a){return this.a4N(a)},
@@ -33269,7 +33269,7 @@ A.NW.prototype={
 $1(a){return A.hI(A.hf(a),null,50)},
 $S:25}
 A.NX.prototype={
-$2(a,b){var s,r,q=null,p=b.b<607,o=p?B.aK:B.bs,n=p?0:1
+$2(a,b){var s,r,q=null,p=b.b<800,o=p?B.aK:B.bs,n=p?0:1
 n=A.ec(A.bg(B.Cw,B.C,B.o),n)
 s=p?0:50
 s=A.hH(q,p?30:0,s)
@@ -33416,10 +33416,10 @@ $S:25}
 A.Db.prototype={
 M(a){var s=null
 return new A.vD(new A.r8(new A.Uc(this),s,s,s,t.o3),B.k,s)},
-a_Z(a,b){var s=null,r=A.ce(a,s,t.w).w.a.a<607,q=A.b7("Flutter developer with a passion for innovation.",A.bo(s,s,B.f,s,s,s,s,s,s,s,s,r?20:35,s,s,B.N,s,s,!0,s,s,s,s,s,s,s,s),B.cp),p=t.p
+a_Z(a,b){var s=null,r=A.ce(a,s,t.w).w.a.a<800,q=A.b7("Flutter developer with a passion for innovation.",A.bo(s,s,B.f,s,s,s,s,s,s,s,s,r?20:35,s,s,B.N,s,s,!0,s,s,s,s,s,s,s,s),B.cp),p=t.p
 return A.jv(s,A.bg(A.c([q,B.aa,A.b7("From idea to execution \u2014 I turn concepts into fully working systems with precision and passion.",A.bo(s,s,B.y,s,s,s,s,s,s,s,s,r?13:15,B.hm,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cp),B.vt,A.a38(B.f3,A.c([new A.po(new A.U9(b),B.cZ,s),new A.po(new A.Ua(b),B.d_,s),new A.po(new A.Ub(b),B.e9,s)],p),0,10)],p),B.v,B.o),B.A,B.yl,s,s,s,s,s,B.zy,s,s,1/0)},
 a_Y(a,b){var s,r,q,p=null,o=t.p
-if(A.ce(a,p,t.w).w.a.a<607){s=A.b7("Amir Khairy",A.bo(p,p,B.f,p,p,p,p,p,p,p,p,22,p,p,B.N,p,p,!0,p,p,p,p,p,p,p,p),p)
+if(A.ce(a,p,t.w).w.a.a<800){s=A.b7("Amir Khairy",A.bo(p,p,B.f,p,p,p,p,p,p,p,p,22,p,p,B.N,p,p,!0,p,p,p,p,p,p,p,p),p)
 r=A.c([],o)
 for(q=0;q<5;++q)r.push(new A.qZ(["Home","About","Resume","Portfolio","Contact"][q],new A.U7(b,q),p))
 return A.acd(p,A.bg(A.c([s,B.aa,A.a38(B.f3,r,0,8)],o),B.v,B.o),p,p,20,20,20,p)}else{o=A.c([B.Mx,B.vw],o)
